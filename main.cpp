@@ -1,0 +1,10 @@
+#include<iostream> 
+
+int main(int argc, char** argv) {
+  using namespace std;
+  int ret = 0;
+
+  // your code goes here
+
+  return ret;
+}
