@@ -1,0 +1,6 @@
+$cd/var/www/anisproject
+$ get init
+$ git add
+$ git commit -m 'initial commit'
+$ git remote and origin git@github.com: compte/projet.git
+$ git push -u origin master
