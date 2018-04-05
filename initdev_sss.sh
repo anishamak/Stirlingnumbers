@@ -3,9 +3,9 @@
 
 if test $1 = "-help"
 	then
-	echo "-Name : Afficher le nom de l’application et une petite description.
-— Syntax : Afficher la syntaxe d’utilisation de la commande initdev.
-— args : Lister les arguments et donner une description de chaque argument.
+	echo "-Name :Nom de l’application et desciription associée . 
+— Syntax : Donne la syntaxe que nous avons utilisée lors de la réalisation dans initdev.
+— args : Lister les arguments donne un aperçu de chaque argument.
 — author : Afficher le nom et l’email de l’auteur de l’application."
 else
 
